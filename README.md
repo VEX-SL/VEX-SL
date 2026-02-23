@@ -1,6 +1,4 @@
-Hi, my name is Hamza or as i prefer ==VEX==
-
-I need to highlight these ==very important words==.
+Hi, my name is Hamza or as i prefer **VEX**
 
 Full Stack Developer, Building scalable backends and responsive web applications and Self learner.
 
@@ -34,6 +32,9 @@ Full Stack Developer, Building scalable backends and responsive web applications
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
   <img width="12" /> -->
 </div>
+
+---
+
 <h3>Soon..</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" title="ReactJS" alt="react logo"  />
@@ -50,6 +51,9 @@ Full Stack Developer, Building scalable backends and responsive web applications
   <img src="https://cdn.jsdelivr.net/gh/VEX-SL/VEX-SL@main/icons/antigravity.png" title="Antigravity" height="30" alt="antigravity logo"  />
   <img width="12" />
 </div>
+
+---
+
 <h4>development tools</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM" height="30" alt="npm logo"  />
