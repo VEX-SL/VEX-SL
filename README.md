@@ -33,9 +33,9 @@ Full Stack Developer, Building scalable backends and responsive web applications
 <p>
 <h4>IDEs / text editors</h4>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" title="VS Code" height="30" alt="VS Code logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" height="30" alt="VS Code logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" title="VS Code" height="30" alt="VS Code logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/VEX-SL/VEX-SL/icons/antigravity/antigravity.png" title="VS Code" height="30" alt="VS Code logo"  />
   <img width="12" />
 </div>
 <h4>general</h4>
