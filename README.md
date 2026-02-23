@@ -35,7 +35,7 @@ Full Stack Developer, Building scalable backends and responsive web applications
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" height="30" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/VEX-SL/VEX-SL/icons/antigravity/antigravity.png" title="Antigravity" height="30" alt="antigravity logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/VEX-SL/VEX-SL@main/icons/antigravity.png" title="Antigravity" height="30" alt="antigravity logo"  />
   <img width="12" />
 </div>
 <h4>general</h4>
