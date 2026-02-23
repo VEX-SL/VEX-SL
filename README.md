@@ -13,7 +13,7 @@ Full Stack Developer, Building scalable backends and responsive web applications
 <div align="left">
   <img src="https://cdn.simpleicons.org/javascript" height="30" title="JavaScript" alt="javascript logo"  />
   <img width="12" />
-  <img src=src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" title="Python" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" title="Python" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJs"  height="30" alt="nodejs logo"  />
   <img width="12" />
