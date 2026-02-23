@@ -40,7 +40,6 @@ Full Stack Developer, Building scalable backends and responsive web applications
 </div>
 <h4>general</h4>
 <div align="left">
-  title="Photoshop" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" title="Photoshop" height="30" alt="photoshop Code logo"  />
   <img width="12" />
 </div>
