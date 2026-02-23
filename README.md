@@ -1,9 +1,10 @@
-<h2 align="left">Hi, my name is Hamza or as i prefer ==VEX==</h2>
+Hi, my name is Hamza or as i prefer ==VEX==
+
 Full Stack Developer, Building scalable backends and responsive web applications and Self learner.
+
   - 📗 I love learning new things every day.
   - 🧰 I began programming when I was just 9 years old.
   - 🔗 These are all [my links](https://www.vexlinks.vercel.app).
-
 ###
 
 <details><summary>What do I use?</summary>
