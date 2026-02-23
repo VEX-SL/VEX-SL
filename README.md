@@ -1,5 +1,7 @@
 Hi, my name is Hamza or as i prefer ==VEX==
 
+I need to highlight these ==very important words==.
+
 Full Stack Developer, Building scalable backends and responsive web applications and Self learner.
 
   - 📗 I love learning new things every day.
