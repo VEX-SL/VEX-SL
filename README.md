@@ -42,6 +42,9 @@ Full Stack Developer, Building scalable backends and responsive web applications
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" title="Flutter" alt="flutter logo"  />
   <img width="12" />
 </div>
+
+---
+
 <h3>other tools</h3>
 <p>
 <h4>IDEs / text editors</h4>
@@ -51,9 +54,6 @@ Full Stack Developer, Building scalable backends and responsive web applications
   <img src="https://cdn.jsdelivr.net/gh/VEX-SL/VEX-SL@main/icons/antigravity.png" title="Antigravity" height="30" alt="antigravity logo"  />
   <img width="12" />
 </div>
-
----
-
 <h4>development tools</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM" height="30" alt="npm logo"  />
