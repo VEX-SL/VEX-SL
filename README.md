@@ -38,11 +38,19 @@ Full Stack Developer, Building scalable backends and responsive web applications
   <img src="https://cdn.jsdelivr.net/gh/VEX-SL/VEX-SL@main/icons/antigravity.png" title="Antigravity" height="30" alt="antigravity logo"  />
   <img width="12" />
 </div>
+<h4>development tools</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://api.iconify.design/logos:insomnia.svg" title="Insomnia" height="30" alt="insomnia logo"  />
+  <img width="12" />
+</div>
 <h4>general</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" title="Photoshop" height="30" alt="photoshop logo"  />
   <img width="12" />
-  <img src="https://static.cdnlogo.com/logos/p/69/premiere.svg" title="Premiere" height="30" width="30" alt="premiere logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" title="Premiere" height="30" alt="premiere logo"  />
+  <img width="12" />
 </div>
 </p>
 </details>
