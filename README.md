@@ -4,7 +4,7 @@ Full Stack Developer, Building scalable backends and responsive web applications
 
   - 📗 I love learning new things every day.
   - 🧰 I began programming when I was just 9 years old.
-  - 🔗 These are all [my links](https://www.vexlinks.vercel.app).
+  - 🔗 These are all [My Links](https://www.vexlinks.vercel.app).
 ###
 
 <details><summary>What do I use?</summary>
