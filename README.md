@@ -3,7 +3,7 @@ Hi, my name is Hamza or as i prefer ==VEX==
 Full Stack Developer, Building scalable backends and responsive web applications and Self learner.
 
   - 📗 I love learning new things every day.
-  - 🧰 I began programming when I was just 9 years old.
+  - 💻 I began programming when I was just 9 years old.
   - 🔗 These are all [My Links](https://vexlinks.vercel.app).
 ###
 
