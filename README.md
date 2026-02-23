@@ -42,8 +42,7 @@ Full Stack Developer, Building scalable backends and responsive web applications
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" title="Photoshop" height="30" alt="photoshop logo"  />
   <img width="12" />
-  <img src="https://static.cdnlogo.com/logos/p/69/premiere.svg" title="Premiere" height="30" alt="premiere logo"  />
-  <img width="12" />
+  <img src="https://static.cdnlogo.com/logos/p/69/premiere.svg" title="Premiere" height="30" width="12" alt="premiere logo"  />
 </div>
 </p>
 </details>
