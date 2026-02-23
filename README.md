@@ -44,7 +44,7 @@ Full Stack Developer, Building scalable backends and responsive web applications
   <img width="12" />
   <img src="https://api.iconify.design/logos:insomnia.svg" title="Insomnia" height="30" alt="insomnia logo"  />
   <img width="12" />
-  <img src="https://api.iconify.design/logos:notion-icon.svg" title="Notion" height="30" alt="notion logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" title="Notion" height="30" alt="notion logo"  />
   <img width="12" />
 </div>
 <h4>general</h4>
