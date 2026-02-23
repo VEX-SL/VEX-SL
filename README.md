@@ -29,6 +29,20 @@ Full Stack Developer, Building scalable backends and responsive web applications
   <img width="12" /> -->
 </div>
 
-<h3>Some of my tech-stack</h3>
-
+<h3>other tools</h3>
+<p>
+<h4>IDEs / text editors</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" title="VS Code" height="30" alt="VS Code logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" title="VS Code" height="30" alt="VS Code logo"  />
+  <img width="12" />
+</div>
+<h4>general</h4>
+<div align="left">
+  title="Photoshop" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" title="Photoshop" height="30" alt="photoshop Code logo"  />
+  <img width="12" />
+</div>
+</p>
 </details>
