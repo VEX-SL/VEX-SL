@@ -51,6 +51,8 @@ Full Stack Developer, Building scalable backends and responsive web applications
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" title="Premiere" height="30" alt="premiere logo"  />
   <img width="12" />
+  <img src="https://api.iconify.design/logos:notion-icon.svg" title="Notion" height="30" alt="notion logo"  />
+  <img width="12" />
 </div>
 </p>
 </details>
