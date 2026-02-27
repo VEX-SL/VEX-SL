@@ -4,7 +4,7 @@ Full Stack Developer, Building scalable backends and responsive web applications
 
   - 📗 I love learning new things every day.
   - 💻 I began programming when I was just 9 years old.
-  - 🔗 These are all [My Links](https://vexlinks.vercel.app).
+  - 🔗 These are all [My Links](https://vexlinks.up.railway.app).
 ###
 
 <details><summary>What do I use?</summary>
@@ -59,6 +59,8 @@ Full Stack Developer, Building scalable backends and responsive web applications
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/insomnia/insomnia-original.svg" title="Insomnia" height="30" alt="insomnia logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" title="Notion" height="30" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" height="30" alt="linux logo"  />
   <img width="12" />
 </div>
 <h4>general</h4>
