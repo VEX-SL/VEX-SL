@@ -69,6 +69,8 @@ Full Stack Developer, Building scalable backends and responsive web applications
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/premierepro/premierepro-original.svg" title="Premiere" height="30" alt="premiere logo"  />
   <img width="12" />
+  <img src="https://icons.duckduckgo.com/ip3/www.capcut.com.ico" title="CapCut" height="30" alt="cupcut logo"  />
+  <img width="12" />
 </div>
 </p>
 </details>
