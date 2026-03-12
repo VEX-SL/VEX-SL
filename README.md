@@ -25,9 +25,9 @@ Full Stack Developer, Building scalable backends and responsive web applications
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" title="Markdown" height="30" alt="markdown logo"  />
   <img width="12" />
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" height="30" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" title="Flutter" alt="flutter logo"  />
   <img width="12" />
 </div>
 
@@ -36,8 +36,6 @@ Full Stack Developer, Building scalable backends and responsive web applications
 <h3>Soon..</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" title="ReactJS" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" title="Flutter" alt="flutter logo"  />
   <img width="12" />
 </div>
 
@@ -69,8 +67,6 @@ Full Stack Developer, Building scalable backends and responsive web applications
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/premierepro/premierepro-original.svg" title="Premiere" height="30" alt="premiere logo"  />
   <img width="12" />
-  <img src="https://static.vecteezy.com/system/resources/previews/013/948/546/non_2x/capcut-logo-on-transparent-white-background-free-vector.jpg" title="CapCut" height="40" alt="cupcut logo"  />
-  <img width="16" />
 </div>
 </p>
 </details>
